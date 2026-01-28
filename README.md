@@ -71,15 +71,13 @@ npx expo start
 ---
 
 ## 🏁 Submission Checklist
-* [cite_start][x] GitHub Repository (Frontend + Backend) [cite: 112]
-* [cite_start][x] `.env.example` included [cite: 113]
-* [cite_start][x] Setup Instructions provided [cite: 114]
-* [cite_start][x] 3-5 Minute Loom Video [cite: 115]
+* GitHub Repository (Frontend + Backend)
+* `.env.example` included
+* Setup Instructions provided 
+* 3-5 Minute Loom Video 
 
 ---
 
 ## 👤 Author
 **Abhinn**
 *IIT Mandi*
-
-"The app is useless without the backend." [cite_start]— *Architecture Maturity* [cite: 98]
